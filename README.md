@@ -11,6 +11,5 @@ https://www.epeople.go.kr/jsp/user/pp/UPpProposOpenList.paid?flag=A&pageNo=1&mod
 
 
 <크롤링 해오는 것>  
-- 2016년 이전 : 날짜 / 제목 / 개요 / 현황 및 문제점 / 개선방안 / 기대효과 / 
 - 2017년 이후 : 날짜 / 제목 / 현황 및 문제점 / 개선방안 / 기대효과
 
