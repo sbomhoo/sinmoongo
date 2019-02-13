@@ -8,7 +8,7 @@ https://www.epeople.go.kr/jsp/user/pp/UPpProposOpenList.paid?flag=A&pageNo=1&mod
 - 자바스크립트를 크롤링하기 위해 selenium을 이용 (chromedriver.exe 다운받을 것!)
 - 크롤링 할 날짜와 최대 페이지 수를 사용자로부터 입력 받음
 - 크롤링 결과를 엑셀로 저장함
-
+- sinmoongo1.py에서 전역변수 에러가 날 경우 sinmoongo2_txt_execel.py를 사용할 것
 
 <크롤링 해오는 것>  
 - 2017년 이후 : 날짜 / 제목 / 현황 및 문제점 / 개선방안 / 기대효과
